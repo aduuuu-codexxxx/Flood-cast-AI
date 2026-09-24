@@ -1,0 +1,6 @@
+{
+  "name": "FloodCast AI - Flood Early Warning & Emergency Dispatch",
+  "description": "Integrated Flood Early Warning, Live Citizen SOS Location Sharing, and Intelligent Rescue Dispatch System for Assam.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
